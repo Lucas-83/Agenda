@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppT</string>
+    <string name="Nome">Nome:</string>
+    <string name="Telefone">Telefone:</string>
+    <string name="Agenda">Agenda</string>
+    <string name="Consultar">Consultar</string>
+    <string name="Fechar">Fechar</string>
+    <string name="Gravar">Gravar</string>
+    <string name="Anterior">Anterior</string>
+    <string name="Proximo">Próximo</string>
+    <string name="Voltar">Voltar</string>
+    <string name="Ligar">Ligar</string>
+
+</resources>

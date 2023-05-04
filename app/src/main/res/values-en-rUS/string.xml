@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Nome">Name:</string>
+    <string name="Telefone">Phone:</string>
+    <string name="Consultar">Consult</string>
+    <string name="Fechar">Close</string>
+    <string name="Gravar">Record</string>
+    <string name="Agenda">Schedule</string>
+    <string name="Anterior">Previous</string>
+    <string name="Proximo">Next</string>
+    <string name="Voltar">Back</string>
+    <string name="Ligar">Connect</string>
+</resources>
